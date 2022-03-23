@@ -15,4 +15,4 @@
 ## Examples of other valid options; For more, please view the user guide
 ### java -jar RepoSense.jar --repos https://github.com/reposense/RepoSense.git
 
-java -jar RepoSense.jar --repos https://github.com/eusoff-hackers/eusoff-simp-bot.git
+java -jar RepoSense.jar --repos https://github.com/eusoff-hackers/eusoff-simp-bot.git --since 10/12/2020 --until 10/09/2021
